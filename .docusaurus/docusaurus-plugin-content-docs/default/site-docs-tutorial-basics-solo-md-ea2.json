@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/solo",
+  "title": "SOLO对外介绍文档",
+  "description": "\\*版本为功能版本，对于一期、二期需求，一期版本为1.0，二期为2.0",
+  "source": "@site/docs/tutorial-basics/solo.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/solo",
+  "permalink": "/docs/next/tutorial-basics/solo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/zkjst110.github.io/tree/main/docs/tutorial-basics/solo.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "共识一级目录（一）",
+    "permalink": "/docs/next/category/共识一级目录一"
+  },
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/docs/next/tutorial-basics/create-a-page"
+  }
+}

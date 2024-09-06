@@ -1,0 +1,24 @@
+{
+  "id": "storage/storage",
+  "title": "数据存储对外技术说明文档",
+  "description": "\\*版本为功能版本，对于一期、二期需求，一期版本为1.0，二期为2.0",
+  "source": "@site/versioned_docs/version-1.1.2/storage/storage.md",
+  "sourceDirName": "storage",
+  "slug": "/storage/",
+  "permalink": "/docs/storage/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/zkjst110.github.io/tree/main/versioned_docs/version-1.1.2/storage/storage.md",
+  "tags": [],
+  "version": "1.1.2",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Multicache 对外技术说明文档",
+    "permalink": "/docs/storage/multicache"
+  },
+  "next": {
+    "title": "一级目录（一）",
+    "permalink": "/docs/category/一级目录一"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tutorial-basics/test",
+  "title": "SOLO对外介绍文档",
+  "description": "\\*版本为功能版本，对于一期、二期需求，一期版本为1.0，二期为2.0",
+  "source": "@site/docs/tutorial-basics/test.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/test",
+  "permalink": "/docs/next/tutorial-basics/test",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/test.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/docs/next/tutorial-basics/congratulations"
+  },
+  "next": {
+    "title": "一级目录（二）",
+    "permalink": "/docs/next/category/一级目录二"
+  }
+}

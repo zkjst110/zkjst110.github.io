@@ -1,0 +1,24 @@
+{
+  "id": "storage/multicache",
+  "title": "multicache",
+  "description": "\\*版本为功能版本，对于一期、二期需求，一期版本为1.0，二期为2.0",
+  "source": "@site/docs/storage/multicache.md",
+  "sourceDirName": "storage",
+  "slug": "/storage/multicache",
+  "permalink": "/docs/next/storage/multicache",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/zkjst110.github.io/tree/main/docs/storage/multicache.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "存储服务",
+    "permalink": "/docs/next/category/存储服务"
+  },
+  "next": {
+    "title": "storage",
+    "permalink": "/docs/next/storage/"
+  }
+}
