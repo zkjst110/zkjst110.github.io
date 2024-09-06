@@ -1,6 +1,6 @@
 {
   "id": "tutorial-basics/solo",
-  "title": "SOLO对外介绍文档",
+  "title": "solo",
   "description": "\\*版本为功能版本，对于一期、二期需求，一期版本为1.0，二期为2.0",
   "source": "@site/docs/tutorial-basics/solo.md",
   "sourceDirName": "tutorial-basics",

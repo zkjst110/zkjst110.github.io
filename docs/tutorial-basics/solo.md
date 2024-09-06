@@ -7,7 +7,7 @@ sidebar_position: 0
 <meta name="referrer" content="no-referrer"/>
 </head>
 
-# SOLO对外介绍文档
+# SOLO对外介绍文档变更测试
 
 > \*版本为功能版本，对于一期、二期需求，一期版本为1.0，二期为2.0
 
