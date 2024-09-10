@@ -30,12 +30,10 @@ export default {
         "docs": {
           "sidebarPath": "./sidebars.js",
           "editUrl": "https://github.com/zkjst110.github.io/tree/main",
+          "includeCurrentVersion": false,
           "versions": {
-            "current": {
-              "label": "latest"
-            },
             "1.1.2": {
-              "label": "1.1.2"
+              "label": "latest"
             },
             "1.1.1": {
               "label": "1.1.1"

@@ -249,7 +249,7 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-eb6": {
+  "/docs-951": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
@@ -356,73 +356,6 @@
   "/docs/1.1.1/tutorial-extras/translate-your-site-7df": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-1-1-1-tutorial-extras-translate-your-site-57-b-a16"
-  },
-  "/docs/next-584": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-nextbf-1-ba7"
-  },
-  "/docs/next-85b": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/docs/next/category/存储服务-9c3": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-next-category-存储服务f-5-d-675"
-  },
-  "/docs/next/category/共识一级目录一-6c3": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-next-category-共识一级目录一-596-e57"
-  },
-  "/docs/next/category/一级目录二-107": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-next-category-一级目录二-6-ff-e2c"
-  },
-  "/docs/next/intro-ad0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-intro-0-e-3-e8b"
-  },
-  "/docs/next/storage-027": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-storage-693-d16"
-  },
-  "/docs/next/storage/multicache-1e5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-storage-multicached-47-042"
-  },
-  "/docs/next/tutorial-basics/congratulations-63b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-basics-congratulations-822-dd8"
-  },
-  "/docs/next/tutorial-basics/create-a-blog-post-2d7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-basics-create-a-blog-post-533-264"
-  },
-  "/docs/next/tutorial-basics/create-a-document-991": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-basics-create-a-document-1-e-4-9c5"
-  },
-  "/docs/next/tutorial-basics/create-a-page-dcd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-basics-create-a-page-5-c-8-5e7"
-  },
-  "/docs/next/tutorial-basics/deploy-your-site-b06": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-basics-deploy-your-sitef-55-46f"
-  },
-  "/docs/next/tutorial-basics/markdown-features-fe4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-basics-markdown-features-18-c-0e2"
-  },
-  "/docs/next/tutorial-basics/solo-617": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-basics-soloea-2-bd6"
-  },
-  "/docs/next/tutorial-extras/manage-docs-versions-fe5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-extras-manage-docs-versionsdff-edb"
-  },
-  "/docs/next/tutorial-extras/translate-your-site-704": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-next-tutorial-extras-translate-your-sitee-44-d48"
   },
   "/docs-fc5": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",

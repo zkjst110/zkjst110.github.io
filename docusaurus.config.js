@@ -50,13 +50,11 @@ const config = {
           editUrl:
           "https://github.com/zkjst110.github.io/tree/main",
             // "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          includeCurrentVersion:false,
           versions: {
-            current: {
-              label: "latest",
-            },
             // 指定其他版本
             "1.1.2": {
-              label: "1.1.2",
+              label: "latest",
             },
             "1.1.1": {
               label: "1.1.1",

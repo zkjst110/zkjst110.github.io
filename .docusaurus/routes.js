@@ -114,7 +114,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'eb6'),
+    component: ComponentCreator('/docs', '951'),
     routes: [
       {
         path: '/docs/1.1.0',
@@ -265,108 +265,6 @@ export default [
               {
                 path: '/docs/1.1.1/tutorial-extras/translate-your-site',
                 component: ComponentCreator('/docs/1.1.1/tutorial-extras/translate-your-site', '7df'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        path: '/docs/next',
-        component: ComponentCreator('/docs/next', '584'),
-        routes: [
-          {
-            path: '/docs/next',
-            component: ComponentCreator('/docs/next', '85b'),
-            routes: [
-              {
-                path: '/docs/next/category/存储服务',
-                component: ComponentCreator('/docs/next/category/存储服务', '9c3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/next/category/共识一级目录一',
-                component: ComponentCreator('/docs/next/category/共识一级目录一', '6c3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/next/category/一级目录二',
-                component: ComponentCreator('/docs/next/category/一级目录二', '107'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/next/intro',
-                component: ComponentCreator('/docs/next/intro', 'ad0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/next/storage',
-                component: ComponentCreator('/docs/next/storage', '027'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/next/storage/multicache',
-                component: ComponentCreator('/docs/next/storage/multicache', '1e5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/next/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/next/tutorial-basics/congratulations', '63b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/next/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/next/tutorial-basics/create-a-blog-post', '2d7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/next/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/next/tutorial-basics/create-a-document', '991'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/next/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/next/tutorial-basics/create-a-page', 'dcd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/next/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/next/tutorial-basics/deploy-your-site', 'b06'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/next/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/next/tutorial-basics/markdown-features', 'fe4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/next/tutorial-basics/solo',
-                component: ComponentCreator('/docs/next/tutorial-basics/solo', '617'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/next/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/next/tutorial-extras/manage-docs-versions', 'fe5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/next/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/next/tutorial-extras/translate-your-site', '704'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
