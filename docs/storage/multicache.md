@@ -1,7 +1,3 @@
-<head>
-
-<meta name="referrer" content="no-referrer"/>
-</head>
 
 # Multicache 对外技术说明文档
 

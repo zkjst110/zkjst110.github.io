@@ -67,6 +67,12 @@ export default {
   ],
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
+    "metadata": [
+      {
+        "name": "referrer",
+        "content": "no-referrer"
+      }
+    ],
     "navbar": {
       "title": "Test Site",
       "logo": {
@@ -359,7 +365,6 @@ export default {
         "groupByYear": true
       }
     },
-    "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3

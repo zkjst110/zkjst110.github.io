@@ -1,20 +1,20 @@
 {
-  "id": "storage/storage",
-  "title": "数据存储对外技术说明文档-标题问题测试",
+  "id": "storage/storage1",
+  "title": "storage1",
   "description": "\\*版本为功能版本，对于一期、二期需求，一期版本为1.0，二期为2.0",
-  "source": "@site/docs/storage/storage.md",
+  "source": "@site/docs/storage/storage1.md",
   "sourceDirName": "storage",
-  "slug": "/storage/",
-  "permalink": "/docs/next/storage/",
+  "slug": "/storage/storage1",
+  "permalink": "/docs/next/storage/storage1",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/zkjst110.github.io/tree/main/docs/storage/storage.md",
+  "editUrl": "https://github.com/zkjst110.github.io/tree/main/docs/storage/storage1.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Multicache 对外技术说明文档",
+    "title": "multicache",
     "permalink": "/docs/next/storage/multicache"
   },
   "next": {

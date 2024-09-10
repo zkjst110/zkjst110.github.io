@@ -1,6 +1,6 @@
 {
   "id": "storage/multicache",
-  "title": "multicache",
+  "title": "Multicache 对外技术说明文档",
   "description": "\\*版本为功能版本，对于一期、二期需求，一期版本为1.0，二期为2.0",
   "source": "@site/docs/storage/multicache.md",
   "sourceDirName": "storage",
@@ -18,7 +18,7 @@
     "permalink": "/docs/next/category/存储服务"
   },
   "next": {
-    "title": "storage",
+    "title": "数据存储对外技术说明文档-标题问题测试",
     "permalink": "/docs/next/storage/"
   }
 }
