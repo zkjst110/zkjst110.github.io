@@ -19,8 +19,9 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            // to="docs/intro">     //docs/tutorial-basics/solo.md提示找不到网页
-            to="docs/next/intro">    
+            // to="docs/intro">     
+            // to="docs/next/intro">    
+            to="docs/intro">   
             Docusaurus Tutorial - 5min - i have changed ⏱️
           </Link>
         </div>
